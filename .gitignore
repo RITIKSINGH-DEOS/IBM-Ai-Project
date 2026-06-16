@@ -1,4 +1,4 @@
-# Virtual Environment
+    # Virtual Environment
 .venv/
 
 # Environment Variables
@@ -8,11 +8,11 @@
 __pycache__/
 *.pyc
 
-# Streamlit
-.streamlit/secrets.toml
-
 # VS Code
 .vscode/
+
+# Streamlit Cache
+.streamlit/
 
 # OS Files
 .DS_Store
