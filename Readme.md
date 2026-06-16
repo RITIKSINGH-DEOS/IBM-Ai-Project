@@ -82,10 +82,10 @@ Provides:
 
 ```text
 AI Content Creator Assistant/
+
 │
 ├── app.py
 ├── .env
-├── requirements.txt
 └── README.md
 ```
 
@@ -142,8 +142,16 @@ Get your API key from Google AI Studio.
 
 ## ▶️ Run The Application
 
+Open terminal in the project folder and run:
+
 ```bash
 streamlit run app.py
+```
+
+The application will start on:
+
+```text
+http://localhost:8501
 ```
 
 ---
